@@ -1,6 +1,6 @@
 # Changelog
 
-Each version is a release tagged `spanish-x.y.z` on the [releases page](https://github.com/ntfifwyb/anki-setup/releases). Major: importing it needs a step in Anki. Minor: new cards. Patch: fixes.
+Each version is a release tagged `vx.y.z` on the [releases page](https://github.com/prsnlanki/espanol/releases). Major: importing it needs a step in Anki. Minor: new cards. Patch: fixes.
 
 ## 2.0.0 (2026-10-23)
 

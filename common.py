@@ -18,7 +18,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = "Languages::Español"
 AUDIO = os.path.join(HERE, "audio")
 LANG = "es"
-PSITTACUS = os.path.join(HERE, "..", "..", "addons", "psittacus", "addon")
+PSITTACUS = os.path.join(HERE, "psittacus", "addon")
 
 # register (tag) -> label shown on the card
 REGISTERS = {"neutral": "neutro", "culto": "culto", "formal": "formal", "coloquial": "coloquial", "vulgar": "vulgar"}
